@@ -3,3 +3,4 @@ Try to change a file.
 Changed
 Inline change
 Another change
+Change to test delete dir
