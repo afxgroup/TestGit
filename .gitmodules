@@ -1,4 +1,4 @@
 [submodule "external/gumbo-parser"]
 	path = external/gumbo-parser
-	url = https://github.com/google/gumbo-parser.git
+	url = https://github.com/google/gubo-parser.git
 	branch = master
